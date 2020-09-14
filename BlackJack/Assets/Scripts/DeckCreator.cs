@@ -8,12 +8,13 @@ public class DeckCreator : MonoBehaviour
     private CardDeck _deck;
     private Dictionary<int, CardView> _fetchedCards;
 
-    public int _handValue;
+    public int _handValue = 0;
     public float _cardOffset = 0.5f;
     public bool _faceUp = false;
     public bool _reverseLayerOrder = false;
     public Vector3 _start;
     [SerializeField] GameObject _playingCard = null;
+    public List<PlayingCard> _hand = new List<PlayingCard>();
 
 
     public void Toggle (int card, bool isFaceUp)
@@ -97,14 +98,19 @@ public class DeckCreator : MonoBehaviour
         card.transform.position = position;
 
         PlayingCard playingCard = card.GetComponent<PlayingCard>();
+        _hand.Add(playingCard);
         playingCard._cardIndex = cardIndex;
         playingCard.DisplayFace(_faceUp);
         _handValue = HandValue(playingCard._cardValue);
-        
         _fetchedCards.Add(cardIndex,new CardView(card));
     }
 
-    public int HandValue(int value)
+    public int ReturnHandValue()
+    {        
+        return _handValue;
+    }
+
+    private int HandValue(int value)
     {
         var currentValue = value;
         int aces = 0;

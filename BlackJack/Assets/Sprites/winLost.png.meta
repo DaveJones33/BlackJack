@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: 2687d269a6cea6e44bcec0b8ac49e22c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6933348668961323588
+    second: winLost_0
+  - first:
+      213: -3403309462793681807
+    second: winLost_1
+  - first:
+      213: 6335766949711663619
+    second: winLost_2
+  - first:
+      213: 1495213655414472477
+    second: winLost_3
+  - first:
+      213: 7898490179146265633
+    second: winLost_4
+  - first:
+      213: -4367945593328078539
+    second: winLost_5
+  - first:
+      213: 7309410471190903717
+    second: winLost_6
+  - first:
+      213: 1314643175163082919
+    second: winLost_7
+  - first:
+      213: 3259586671955437549
+    second: winLost_8
+  - first:
+      213: -1752222684238755236
+    second: winLost_9
+  - first:
+      213: 7251187343252716575
+    second: winLost_10
+  - first:
+      213: 8389114777863487813
+    second: winLost_11
+  - first:
+      213: 7349015916288531596
+    second: winLost_12
+  - first:
+      213: -1495874229464856744
+    second: winLost_13
+  - first:
+      213: 1003207680136963949
+    second: winLost_14
+  - first:
+      213: -4626727640192463818
+    second: winLost_15
+  - first:
+      213: 1042552094789992474
+    second: winLost_16
+  - first:
+      213: -1941106494003318841
+    second: winLost_17
+  - first:
+      213: 161387547426646399
+    second: winLost_18
+  - first:
+      213: 5700076109258650779
+    second: winLost_19
+  - first:
+      213: -811762588884544273
+    second: winLost_20
+  - first:
+      213: -197385583983433523
+    second: winLost_21
+  - first:
+      213: -5210081940112835254
+    second: winLost_22
+  - first:
+      213: -1265106576142099530
+    second: winLost_23
+  - first:
+      213: 3071471270223401425
+    second: winLost_24
+  - first:
+      213: -8021605626859711342
+    second: winLost_25
+  - first:
+      213: 2216404803258046803
+    second: winLost_26
+  - first:
+      213: -171730327877954468
+    second: winLost_27
+  - first:
+      213: 6950223867333779871
+    second: winLost_28
+  - first:
+      213: -4582151231517091708
+    second: winLost_29
+  - first:
+      213: -5400369955775160948
+    second: winLost_30
+  - first:
+      213: -3349985350035980809
+    second: winLost_31
+  - first:
+      213: -2844231936206800001
+    second: winLost_32
+  - first:
+      213: 4506261778050812904
+    second: winLost_33
+  - first:
+      213: 6793583787724154673
+    second: winLost_34
+  - first:
+      213: -5453380828362050987
+    second: winLost_35
+  - first:
+      213: 3551394536044623404
+    second: winLost_36
+  - first:
+      213: 8924671746135070927
+    second: winLost_37
+  - first:
+      213: -5164631790112181613
+    second: winLost_38
+  - first:
+      213: 1059320172222995968
+    second: winLost_39
+  - first:
+      213: -5857518276698522765
+    second: winLost_40
+  - first:
+      213: -1116179826686538256
+    second: winLost_41
+  - first:
+      213: -768558961713677383
+    second: winLost_42
+  - first:
+      213: 4315314392395941362
+    second: winLost_43
+  - first:
+      213: 6984650684553477404
+    second: winLost_44
+  - first:
+      213: 7636528399199121550
+    second: winLost_45
+  - first:
+      213: 3860634439511798533
+    second: winLost_46
+  - first:
+      213: 4399718256189460901
+    second: winLost_47
+  - first:
+      213: -6705629052255880217
+    second: winLost_48
+  - first:
+      213: 8565089777186494029
+    second: winLost_49
+  - first:
+      213: -1593190078509099372
+    second: winLost_50
+  - first:
+      213: -1238422725999018580
+    second: winLost_51
+  - first:
+      213: 850416324825549482
+    second: winLost_52
+  - first:
+      213: -4526220193246770274
+    second: winLost_53
+  - first:
+      213: -6264340041002570530
+    second: winLost_54
+  - first:
+      213: 2797219339175092088
+    second: winLost_55
+  - first:
+      213: -4923264532629135993
+    second: winLost_56
+  - first:
+      213: 458025469187713953
+    second: winLost_57
+  - first:
+      213: 2401249403077856511
+    second: winLost_58
+  - first:
+      213: 7828540764733629855
+    second: winLost_59
+  - first:
+      213: -1163702162908984504
+    second: winLost_60
+  - first:
+      213: -2874060069158662263
+    second: winLost_61
+  - first:
+      213: 3983566106595777487
+    second: winLost_62
+  - first:
+      213: -4550272073518827813
+    second: winLost_63
+  - first:
+      213: -6030364775128499599
+    second: winLost_64
+  - first:
+      213: 6511333789414611969
+    second: winLost_65
+  - first:
+      213: 8617425128933461185
+    second: winLost_66
+  - first:
+      213: -6195513646275648884
+    second: winLost_67
+  - first:
+      213: 3769265999847951596
+    second: winLost_68
+  - first:
+      213: -564384181355546043
+    second: winLost_69
+  - first:
+      213: 9124890458551190007
+    second: winLost_70
+  - first:
+      213: 5124490154975499131
+    second: winLost_71
+  - first:
+      213: -280155799037740367
+    second: winLost_72
+  - first:
+      213: -7375484320569071061
+    second: winLost_73
+  - first:
+      213: 1251046813899270636
+    second: winLost_74
+  - first:
+      213: 6775631988935493063
+    second: winLost_75
+  - first:
+      213: 1045532922061602834
+    second: winLost_76
+  - first:
+      213: 5689882374541579881
+    second: winLost_77
+  - first:
+      213: 5918400550842422433
+    second: winLost_78
+  - first:
+      213: 5793942440420812937
+    second: winLost_79
+  - first:
+      213: 2310108164660420454
+    second: winLost_80
+  - first:
+      213: 5017997290087741515
+    second: winLost_81
+  - first:
+      213: 5675692936715901909
+    second: winLost_82
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: winLost_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 391
+        width: 656
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44afd5541e3383060800000000000000
+      internalID: 6933348668961323588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winLost_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 60
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1740579331405c0d0800000000000000
+      internalID: -3403309462793681807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winLost_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 225
+        width: 726
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3025931f87a2de750800000000000000
+      internalID: 6335766949711663619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winLost_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 70
+        width: 130
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ffa4ac5e010c410800000000000000
+      internalID: 1495213655414472477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: winLost_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 62
+        width: 438
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124bced48f21d9d60800000000000000
+      internalID: 7898490179146265633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

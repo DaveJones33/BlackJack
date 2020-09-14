@@ -5,7 +5,6 @@ using UnityEngine;
 public class EventManager : MonoBehaviour
 {
     public delegate void CardEventHandler(int cardIndex);
-    //public static event CardEventHandler CardRemovedEvent;
 
     public int _cardIndex { get; private set; }
 

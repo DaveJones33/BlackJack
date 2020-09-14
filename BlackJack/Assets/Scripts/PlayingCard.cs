@@ -28,6 +28,7 @@ public class PlayingCard : MonoBehaviour
             // Show the back
             var showBack = GetComponentInChildren<Image>();
             showBack.sprite = cardBack;
+            _cardValue = showCards._cards[_cardIndex]._value;
         }
     }
 
